@@ -1,0 +1,7 @@
+Name: Alice
+Email: alice@example.com
+Phone: 123-456-7890
+
+Name: Bob
+Email: bob123@domain.net
+Phone: 987-654-3210
