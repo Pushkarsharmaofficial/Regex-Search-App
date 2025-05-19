@@ -1,7 +1,29 @@
-Name: Alice
-Email: alice@example.com
+Name: Alice Johnson
+Email: alice.johnson@example.com
 Phone: 123-456-7890
+DOB: 1992-04-15
+Address: 123 Elm Street, Springfield, IL 62704
 
-Name: Bob
-Email: bob123@domain.net
+Name: Bob Smith
+Email: bob_smith92@domain.net
 Phone: 987-654-3210
+DOB: 1988-12-05
+Address: 456 Oak Avenue, Shelbyville, IL 62565
+
+Name: Charlie Garcia
+Email: charlie.g@company.org
+Phone: 555-123-4567
+DOB: 1979-07-21
+Address: 789 Pine Blvd, Capital City, TX 73301
+
+Name: Dana Lee
+Email: dana.lee@webmail.com
+Phone: 111-222-3333
+DOB: 1990-09-30
+Address: 101 Maple St, Ogdenville, CA 90210
+
+Name: Erin Kim
+Email: erin.kim@school.edu
+Phone: 800-999-8888
+DOB: 1995-02-18
+Address: 202 Birch Lane, North Haverbrook, FL 33101
